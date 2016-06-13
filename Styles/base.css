@@ -1,0 +1,58 @@
+html {
+  background-color: whitesmoke;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none !important;
+}
+
+img {
+  width: 500px;
+  max-width: 100%;
+}
+
+a {
+  color: #10384D;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.h1banner {
+    /*position: absolute;*/
+    color: white;
+    font-size: 50px;
+    font-family: Pacifico;
+}
+
+h2 {
+  font-family: Pacifico;
+}
+
+.tab {
+
+    padding: 25px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}
+
+.video-container {
+position: relative;
+
+}
+
+#nicPic {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
+
+#aboutPara {
+  margin: 0px 15px 15px 0px;
+}
+
+.icons {
+  width: 30px;
+  display: block;
+}
