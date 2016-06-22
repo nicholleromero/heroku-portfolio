@@ -19,4 +19,4 @@
   };
 
   module.repoView = repoView;
-}) (window);
+})(window);
